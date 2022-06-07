@@ -1,4 +1,4 @@
-## Hey Schnecke, was machts gebäcke? 👩‍🔧
+## Hey Schnecke, was machts Gebäcke? 👩‍🔧
 
 <img width="55%" align="right" alt="Nice Github picture" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <b>About me:</b>
