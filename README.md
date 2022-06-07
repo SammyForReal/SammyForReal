@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey Schnecke, was machts gebäcke? 👩‍🔧
 
-<!--
-**1Turtle/1Turtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="55%" align="right" alt="Nice Github picture" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<b>About me:</b>
+  
+I usually do a lot of [Lua](https://www.lua.org/) stuff and so...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💾 A Hobby programmer
+- 🍺 I'm <b>old enouth</b> LOL
+- 🌱 Doin' my <b>Abitur</b> in Germany! 🇩🇪
+- 🔭 How to reach me:
+  - Discord: <b>[Sammy#5900](https://discord.com/users/310059293435101185)</b>
+  - Email: <b>sammykoch2004@gmail.com</b>
+- 🏳️‍🌈 Pronouns: <b>He/Him</b>
+  
+##
