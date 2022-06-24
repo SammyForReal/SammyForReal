@@ -10,7 +10,8 @@ I usually do a lot of [Lua](https://www.lua.org/) stuff and so...
 - 🌱 Doin' my <b>Abitur</b> in Germany! 🇩🇪
 - 🔭 How to reach me:
   - 👉 Discord: <b>[Sammy#5900](https://discord.com/users/310059293435101185)</b>
-  - Email: <b>sammykoch2004@gmail.com</b>
+  - Matrix: <b>@sammy:tweaked-programs.cc</b>
+  - Email: <b>sammykoch2004@gmail.com</b> *(for important stuff only)*
 - 🏳️‍🌈 Pronouns: <b>He/Him</b>
   
 ##
