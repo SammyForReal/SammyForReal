@@ -4,7 +4,7 @@
 <b>About me:</b>
   
 I can program in many languages, like C(++/#) or JavaScript, Python, you name it. 
-But I usually code a lot stuff in [<b>Lua</b>](https://www.lua.org/) or <b>Java</b>. Currently I'm also learning other languages like <b>Kotlin</b>!
+But I usually code a lot of stuff in [<b>Lua</b>](https://www.lua.org/) or <b>Java</b>. Currently I'm also learning other languages like <b>Kotlin</b>!
 
 - 💾 A Hobby programmer
 - 🍺 I'm <b>old enough</b> LOL
