@@ -10,9 +10,9 @@ But I usually code a lot of stuff in [<b>Lua</b>](https://www.lua.org/) or <b>Ja
 - 🍺 I'm <b>old enough</b> LOL
 - 🌱 Doin' my <b>Abitur</b> in Germany! 🇩🇪
 - 🔭 How to reach me:
-  - <a rel="me" href="https://chaos.social/@sammy">Mastodon</a>[: <b>@Sammy@chaos.social</b>](https://chaos.social/@sammy) _(recommended)_
-  - ~~[Discord: <b>Sammy_echt](https://discord.com/users/310059293435101185)</b>~~ _(I dont take friend requests anymore)_
-  - <a href="mailto:SammyKoch@pm.me">E-Mail: <b>SammyKoch@pm.me</b></a> _(for important stuff only)_
+  - Mastodon: [<b>@Sammy@chaos.social</b>](https://chaos.social/@sammy) _(recommended)_
+  - ~~Discord: <b>[Sammy_echt](https://discord.com/users/310059293435101185)</b>~~ _(I dont take friend requests anymore)_
+  - E-Mail: <a href="mailto:SammyKoch@pm.me"><b>SammyKoch@pm.me</b></a> _(for important stuff only)_
 - 🏳️‍🌈 Pronouns: <b>Any</b> or He/Him
   
 ##
